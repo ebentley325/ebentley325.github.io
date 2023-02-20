@@ -20,7 +20,7 @@ title                    : "Erin Bentley"
 title_separator          : "-"
 subtitle                 : "PhD Student, Tank Lab" # site tagline that appears below site title in masthead
 name                     : "Erin Bentley"
-description              : "Evolutionary Biologist interested in Penstemon evolution and population genetics. Microbestiary Project Coordinator and transdisciplinary researcher. "
+description              : " "
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Erin Bentley"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/sushiportrait.jpg"
+  bio              : "Evolutionary Biologist interested in Penstemon evolution and population genetics. Microbestiary Project Coordinator and transdisciplinary researcher."
   location         : "University of Wyoming"
   email            :
   links:
