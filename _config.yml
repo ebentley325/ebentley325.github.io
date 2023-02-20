@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/sushiportrait.jpg"
   bio              : "Evolutionary Biologist interested in Penstemon evolution and population genetics. Microbestiary Project Coordinator and transdisciplinary researcher."
   location         : "University of Wyoming"
-  email            :
+  email            : "ebentley@uwyo.edu"
   links:
     - label: "ebentley@uwyo.edu"
       icon: "fas fa-fw fa-envelope-square"
