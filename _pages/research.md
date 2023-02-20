@@ -12,7 +12,7 @@ header:
 
 ## Welcome!
 
-### /Penstemon/ Evolution and Population Genetics
+### *Penstemon* Evolution and Population Genetics
 
 ### Transdisciplinary Education
 
