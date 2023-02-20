@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    :  "sunrise"  #, "aqua", "contrast", "dark", "dirt", , "mint", "plum", , "default", "air", "neon"
+minimal_mistakes_skin    :   "neon"#, "aqua", "contrast", "dark", "dirt", , "mint", "plum", , "default", "air", "sunrise" 
 
 # Site Settings
 locale                   : "en-US"
@@ -110,9 +110,9 @@ author:
   location         : "University of Wyoming"
   email            : "ebentley@uwyo.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ebentley@uwyo.edu"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:ebentley@uwyo.edu"
     - label: "Microbestiary"
       icon: "fas fa-fw fa-link"
       url: "https://microbestiary.org/"
