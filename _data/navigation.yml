@@ -6,7 +6,8 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Hobbies"
+    url: /hobbies/
+
