@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Erin Bentley"
   avatar           : "/assets/images/sushiportrait.jpeg"
-  bio              : "Evolutionary Biologist interested in Penstemon evolution and population genetics. Microbestiary Project Coordinator and transdisciplinary researcher."
+  bio              : "An Evolutionary Biologist interested in Penstemon evolution and population genetics. Microbestiary Project Coordinator and transdisciplinary researcher."
   location         : "University of Wyoming"
   email            : "ebentley@uwyo.edu"
   links:
@@ -114,7 +114,7 @@ author:
       #icon: "fas fa-fw fa-envelope-square"
       #url: "mailto:ebentley@uwyo.edu"
     - label: "Microbestiary"
-      icon: "fas fa-fw fa-link"
+      icon: "assets/images/MBcircle.jpeg"
       url: "https://microbestiary.org/"
    
 
