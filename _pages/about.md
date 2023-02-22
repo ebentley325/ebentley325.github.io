@@ -20,6 +20,6 @@ At the beginning of my graduate career I was fortunate to be given the chance to
 
 
 ### CV
-Find my CV [here](/assets/files/CV).
+Find my CV [here](/assets/files/CV_Erin_Final.pdf).
 
 ---
