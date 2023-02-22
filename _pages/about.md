@@ -4,7 +4,7 @@ title: "About me!"
 toc: true
 
 header:
-  overlay_image: /assets/images/arcticHeader.jpeg
+  overlay_image: /assets/images/OwensBanner2.jpg
 ---
 
 ## My Background
