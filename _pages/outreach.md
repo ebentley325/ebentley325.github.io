@@ -4,7 +4,7 @@ title: "Outreach"
 toc: true
 
 header:
-  overlay_image: /assets/images/OwensBanner2.jpg
+  overlay_image: /assets/images/suncatcherBanner.jpg
 ---
 
 ## The Serious Game
