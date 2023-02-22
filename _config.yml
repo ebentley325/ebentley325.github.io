@@ -114,7 +114,7 @@ author:
       #icon: "fas fa-fw fa-envelope-square"
       #url: "mailto:ebentley@uwyo.edu"
     - label: "Microbestiary"
-      icon: "assets/images/MBcircle.jpg"
+      icon: "fab fa-fw fa-assets/images/MBcircle.jpg"
       url: "https://microbestiary.org/"
    
 
