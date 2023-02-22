@@ -10,6 +10,11 @@ header:
 ## My Background
 ### About Me
 
+My name is Erin Bentley and I am currently a PhD student in [the Tank Lab](http://davetank.github.io/tank-lab/) at the University of Wyoming (UW), in the Program in Ecology and Evolution. 
+
+I received my undergraduate degree from UW in Animal Science, Pre-Veterinary track at the University of Wyoming in 2018, and worked as an undergraduate researcher in [the Wildlife Genomics and Disease Ecology Lab](http://www.wildlifegenetichealth.org/about-us/holly-ernest/) under the mentorship of Dr. Holly Ernest. During my tenure in Dr. Ernest's lab, I worked on disease dynamics of Chronic Wasting Disease and recieved a National Science Foundation (NSF) Research Experience for Undergraduates (REU) to design a video game and accompanying curricula to teach how habitat fragmentation and disease dynamics affect population persistence. This project was one of my first forays into science outreach, and was supported by the NSF Ecology and Evolution of Infectious Disease Award [Impacts of Landscape Structure, Host Demography, and Management Interventions on Disease Dynamics](https://felidae.colostate.edu/). 
+
+
 ### CV
 Find my CV [here](/assets/files/).
 
