@@ -15,4 +15,5 @@ Most recently, we have been working in collaboration with the [University of Wyo
 ## Community Outreach Program for STEAM Engagement (COPSE)
 In 2019, I co-founded a graduate student lead outreach group dedicated to bringing transdisciplinary work to schools around the state, the Community Outreach Program for STEAM Engagement ([COPSE](https://uwyocopse.wixsite.com/home)). Since then, we have worked with educators around the state, hosted a statewide confrerence to connect eduators, outreachers, and resources at the University of Wyoming, and started a community outreach event night, Odd Bedfellows. In Odd Bedfellows, we invite experts from seemingly disparate fields to come together and discuss outrageous connections between their fields of study, backgrounds, and interests. The event is open to the community, and our speakers range from the owner of the loacl bike shop to professors at the University. 
 
+
 ---
