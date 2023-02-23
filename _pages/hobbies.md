@@ -1,6 +1,6 @@
 ---
 permalink: hobbies/
-title: "About me!"
+title: "Outside of Academia"
 toc: true
 
 header:
