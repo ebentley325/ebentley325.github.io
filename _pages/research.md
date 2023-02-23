@@ -22,4 +22,5 @@ In the fall of 2022, I co-taught an upper-level undergraduate Microbiology Capst
 
 ### A Dabble in Microbiology
 In addition to my interest in the extent to which rarity affects _Penstemon_ population genetics, I have also conducted research into how host plant rarity affects the composition and diversity of the foliar microbiome. Outside of this project, most of my outreach focuses on microbial ecology and microbial diversity, and in April of 2022 I was accepted to the [Arctic Circle Residency](https://thearcticcircle.org/) to explore the microbial ecology of the arctic and make connections with the other artists and scientists aboard _The Antigua_. There's more about this under "Outreach"! 
+
 ---
