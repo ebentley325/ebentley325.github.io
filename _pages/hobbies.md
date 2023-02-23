@@ -4,7 +4,7 @@ title: "Outside of Academia"
 toc: true
 
 header:
-  overlay_image: /assets/images/SatteliteBanner.jpg
+  overlay_image: /assets/images/SatelliteBanner.jpg
 ---
 
 ## Outside of Academia
