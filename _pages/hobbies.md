@@ -14,4 +14,5 @@ During my undergraduate degree, I explored a series of different subjects before
 
 ### Rugby
 I started playing rugby during my freshman year of my undergraduate, until then, having been what I would call _minimally sporty_. After playing for my allotted five years on the University team, I continued to coach on and off until 2022, when I co-founded the non-collegiate, adult women's rugby team Cold Front Rugby.
+
 ---
