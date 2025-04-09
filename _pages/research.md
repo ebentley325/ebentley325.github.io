@@ -13,7 +13,7 @@ header:
 ## Howdy!
 
 ### *Penstemon* Evolution and Population Genetics
-I am interested in the population genetics and evolution of plants in the genus _Penstemon_. Specifically, I am interested on the consequences of rarity on genetic diversity, how rarity and endemism are distrubted across the _Penstemon_ phylogeny, and taking a deper dive into the population genetics and dynamics of _Penstemon haydenii_, an endangered species that lives only in the sand dunes of Wyoming and Nebraska. 
+I am interested in the population genetics and evolution of plants in the genus _Penstemon_. Specifically, I am interested in the consequences of rarity on genetic diversity, how rarity and endemism are distributed across the _Penstemon_ phylogeny, and taking a deper dive into the population genetics and dynamics of _Penstemon haydenii_, an endangered species that lives only in the sand dunes of Wyoming and Nebraska. 
 
 ### Transdisciplinary Education
 As the worlds problems grow in scope and complexity, the approaches that we take to solving them need to expand as well. It has been shown that transdisciplinary education and problem solving lead to students that are better suited for post-academic work, are more desireable as job candidates, and are overall more engaged with their classwork. In addition, transdisciplinary education increases the rentention of underrepresented groups in STEM fields, and there has been a recent push to "de-silo" the academic disciplines and their approaches to research. 
